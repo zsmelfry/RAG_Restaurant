@@ -1,0 +1,439 @@
+[
+  {
+    "name": "白切鸡",
+    "desc": "清蒸鸡肉，肉质鲜嫩，蘸姜葱油提味",
+    "tags": [
+      "cantonese",
+      "steamed",
+      "chicken"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "chicken",
+      "ginger",
+      "scallion",
+      "soy sauce"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "cantonese",
+        "steamed",
+        "chicken"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "烧鹅",
+    "desc": "外皮酥脆的烤鹅，肉质鲜香多汁",
+    "tags": [
+      "cantonese",
+      "roasted",
+      "goose"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "goose",
+      "soy sauce",
+      "honey",
+      "spices"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "cantonese",
+        "roasted",
+        "goose"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "豉汁蒸排骨",
+    "desc": "排骨配豆豉蒸制，咸香下饭",
+    "tags": [
+      "cantonese",
+      "steamed",
+      "pork"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "ingredients": [
+      "pork ribs",
+      "fermented black beans",
+      "garlic"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy"
+      ],
+      "tags": [
+        "cantonese",
+        "steamed",
+        "pork"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "咕噜肉",
+    "desc": "炸猪肉块配酸甜酱汁，外酥里嫩",
+    "tags": [
+      "cantonese",
+      "sweet",
+      "sour",
+      "pork",
+      "deep-fried"
+    ],
+    "allergens": [
+      "soy",
+      "wheat"
+    ],
+    "ingredients": [
+      "pork",
+      "vinegar",
+      "pineapple",
+      "bell pepper"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy",
+        "wheat"
+      ],
+      "tags": [
+        "cantonese",
+        "sweet",
+        "sour",
+        "pork",
+        "deep-fried"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "干炒牛河",
+    "desc": "河粉炒牛肉片，酱香浓郁",
+    "tags": [
+      "cantonese",
+      "stir-fry",
+      "beef",
+      "noodle"
+    ],
+    "allergens": [
+      "soy",
+      "wheat"
+    ],
+    "ingredients": [
+      "rice noodles",
+      "beef",
+      "soy sauce",
+      "bean sprouts"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy",
+        "wheat"
+      ],
+      "tags": [
+        "cantonese",
+        "stir-fry",
+        "beef",
+        "noodle"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "煲仔饭",
+    "desc": "砂锅米饭，配腊肠与酱油香气",
+    "tags": [
+      "cantonese",
+      "rice",
+      "claypot"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "ingredients": [
+      "rice",
+      "chinese sausage",
+      "soy sauce",
+      "green onion"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy"
+      ],
+      "tags": [
+        "cantonese",
+        "rice",
+        "claypot"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "肠粉",
+    "desc": "米浆蒸成粉皮，包裹鲜虾或叉烧",
+    "tags": [
+      "cantonese",
+      "steamed",
+      "rice",
+      "shrimp"
+    ],
+    "allergens": [
+      "shrimp",
+      "soy"
+    ],
+    "ingredients": [
+      "rice flour",
+      "shrimp",
+      "char siu",
+      "soy sauce"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "shrimp",
+        "soy"
+      ],
+      "tags": [
+        "cantonese",
+        "steamed",
+        "rice",
+        "shrimp"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "艇仔粥",
+    "desc": "米粥配鱼片、花生和油条，清淡鲜美",
+    "tags": [
+      "cantonese",
+      "soup",
+      "rice"
+    ],
+    "allergens": [
+      "fish",
+      "peanut"
+    ],
+    "ingredients": [
+      "rice",
+      "fish",
+      "peanut",
+      "youtiao"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "fish",
+        "peanut"
+      ],
+      "tags": [
+        "cantonese",
+        "soup",
+        "rice"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "虾饺",
+    "desc": "透明粉皮包虾仁，口感清鲜",
+    "tags": [
+      "cantonese",
+      "dumpling",
+      "shrimp",
+      "steamed"
+    ],
+    "allergens": [
+      "shrimp",
+      "wheat"
+    ],
+    "ingredients": [
+      "shrimp",
+      "wheat starch",
+      "bamboo shoots"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "shrimp",
+        "wheat"
+      ],
+      "tags": [
+        "cantonese",
+        "dumpling",
+        "shrimp",
+        "steamed"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  },
+  {
+    "name": "马蹄糕",
+    "desc": "清甜爽口的马蹄粉蒸糕点",
+    "tags": [
+      "cantonese",
+      "dessert",
+      "sweet",
+      "steamed"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "water chestnut flour",
+      "sugar",
+      "water"
+    ],
+    "cuisine": "chinese",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "cantonese",
+        "dessert",
+        "sweet",
+        "steamed"
+      ],
+      "cuisine": "chinese"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T18:30:00Z",
+    "updated_at": "2025-08-25T18:30:00Z"
+  }
+]

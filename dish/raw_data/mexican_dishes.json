@@ -1,0 +1,649 @@
+[
+  {
+    "name": "玉米饼",
+    "desc": "玉米粉制成的薄饼，是墨西哥料理的基础主食。",
+    "tags": [
+      "tortilla",
+      "bread",
+      "mexican"
+    ],
+    "allergens": [
+      "corn"
+    ],
+    "ingredients": [
+      "corn flour",
+      "water",
+      "salt"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "corn"
+      ],
+      "tags": [
+        "tortilla",
+        "bread",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "塔可",
+    "desc": "玉米饼夹牛肉、鸡肉或鱼，加辣酱与蔬菜。",
+    "tags": [
+      "taco",
+      "street-food",
+      "mexican"
+    ],
+    "allergens": [
+      "corn"
+    ],
+    "ingredients": [
+      "tortilla",
+      "beef",
+      "onion",
+      "cilantro",
+      "salsa"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "corn"
+      ],
+      "tags": [
+        "taco",
+        "street-food",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "卷饼",
+    "desc": "小麦饼卷米饭、豆类、肉类和芝士，口感丰富。",
+    "tags": [
+      "burrito",
+      "wrap",
+      "mexican"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "flour tortilla",
+      "rice",
+      "beans",
+      "chicken",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "burrito",
+        "wrap",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "辣味玉米片",
+    "desc": "玉米片淋上芝士酱、豆泥和辣椒。",
+    "tags": [
+      "nachos",
+      "snack",
+      "mexican"
+    ],
+    "allergens": [
+      "milk",
+      "corn"
+    ],
+    "ingredients": [
+      "corn chips",
+      "cheese",
+      "beans",
+      "jalapeño"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "milk",
+        "corn"
+      ],
+      "tags": [
+        "nachos",
+        "snack",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "辣酱玉米卷",
+    "desc": "玉米饼卷肉类或蔬菜，淋辣椒酱烤制。",
+    "tags": [
+      "enchilada",
+      "spicy",
+      "mexican"
+    ],
+    "allergens": [
+      "corn",
+      "milk"
+    ],
+    "ingredients": [
+      "tortilla",
+      "chicken",
+      "chili sauce",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "corn",
+        "milk"
+      ],
+      "tags": [
+        "enchilada",
+        "spicy",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "芝士薄饼",
+    "desc": "小麦饼夹芝士煎烤，常配鳄梨酱。",
+    "tags": [
+      "quesadilla",
+      "cheese",
+      "mexican"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "flour tortilla",
+      "cheese",
+      "chicken",
+      "salsa"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "quesadilla",
+        "cheese",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "墨西哥炖猪肉",
+    "desc": "猪肉慢炖，加入橙汁和香料，常夹入玉米饼。",
+    "tags": [
+      "carnitas",
+      "pork",
+      "mexican"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "pork",
+      "orange juice",
+      "garlic",
+      "cumin"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "carnitas",
+        "pork",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "炖牛肉汤",
+    "desc": "牛肉与蔬菜炖煮成浓汤，常作主菜。",
+    "tags": [
+      "soup",
+      "beef",
+      "mexican"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "beef",
+      "carrot",
+      "potato",
+      "zucchini"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "soup",
+        "beef",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "鳄梨酱",
+    "desc": "牛油果捣碎，混合洋葱、番茄和柠檬汁。",
+    "tags": [
+      "dip",
+      "guacamole",
+      "vegetarian",
+      "mexican"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "avocado",
+      "onion",
+      "tomato",
+      "lime",
+      "cilantro"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "dip",
+        "guacamole",
+        "vegetarian",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "墨西哥辣椒酿",
+    "desc": "大辣椒填入芝士或肉馅，油炸后浇番茄酱。",
+    "tags": [
+      "chile-relleno",
+      "spicy",
+      "mexican"
+    ],
+    "allergens": [
+      "milk",
+      "egg"
+    ],
+    "ingredients": [
+      "poblano pepper",
+      "cheese",
+      "egg",
+      "tomato sauce"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "milk",
+        "egg"
+      ],
+      "tags": [
+        "chile-relleno",
+        "spicy",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "墨西哥烤玉米",
+    "desc": "玉米烤制后抹奶油、奶酪和辣椒粉。",
+    "tags": [
+      "corn",
+      "street-food",
+      "mexican"
+    ],
+    "allergens": [
+      "milk",
+      "corn"
+    ],
+    "ingredients": [
+      "corn",
+      "butter",
+      "cotija cheese",
+      "chili powder"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "milk",
+        "corn"
+      ],
+      "tags": [
+        "corn",
+        "street-food",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "波索莱汤",
+    "desc": "大粒玉米煮汤，加入猪肉和辣椒，传统节日料理。",
+    "tags": [
+      "soup",
+      "corn",
+      "mexican"
+    ],
+    "allergens": [
+      "corn"
+    ],
+    "ingredients": [
+      "hominy corn",
+      "pork",
+      "chili",
+      "cabbage"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "corn"
+      ],
+      "tags": [
+        "soup",
+        "corn",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "巧克力辣酱鸡",
+    "desc": "鸡肉炖煮于可可和辣椒制成的酱汁，味道独特。",
+    "tags": [
+      "chicken",
+      "mole",
+      "spicy",
+      "mexican"
+    ],
+    "allergens": [
+      "nuts"
+    ],
+    "ingredients": [
+      "chicken",
+      "cocoa",
+      "chili",
+      "almond",
+      "sesame"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "nuts"
+      ],
+      "tags": [
+        "chicken",
+        "mole",
+        "spicy",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "墨西哥烤猪皮",
+    "desc": "猪皮炸至膨化酥脆，常作零食或搭配辣酱。",
+    "tags": [
+      "snack",
+      "pork",
+      "mexican"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "pork skin",
+      "salt",
+      "chili powder"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "snack",
+        "pork",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  },
+  {
+    "name": "吉事果",
+    "desc": "油炸面条状甜点，裹糖粉，常蘸巧克力酱。",
+    "tags": [
+      "dessert",
+      "churros",
+      "mexican"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "flour",
+      "sugar",
+      "cinnamon",
+      "oil"
+    ],
+    "cuisine": "mexican",
+    "lang": "es",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "dessert",
+        "churros",
+        "mexican"
+      ],
+      "cuisine": "mexican"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:20:00Z",
+    "updated_at": "2025-08-25T23:20:00Z"
+  }
+]

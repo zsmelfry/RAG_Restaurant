@@ -1,0 +1,361 @@
+[
+  {
+    "name": "泡菜",
+    "desc": "白菜发酵腌制，酸辣开胃。",
+    "tags": [
+      "kimchi",
+      "vegetable",
+      "fermented",
+      "korean"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "ingredients": [
+      "napa cabbage",
+      "chili powder",
+      "garlic",
+      "fish sauce"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "fish"
+      ],
+      "tags": [
+        "kimchi",
+        "vegetable",
+        "fermented",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "拌饭",
+    "desc": "米饭配蔬菜、牛肉和辣椒酱，搅拌后食用。",
+    "tags": [
+      "rice",
+      "beef",
+      "vegetable",
+      "bibimbap",
+      "korean"
+    ],
+    "allergens": [
+      "soy",
+      "egg"
+    ],
+    "ingredients": [
+      "rice",
+      "beef",
+      "spinach",
+      "carrot",
+      "gochujang"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy",
+        "egg"
+      ],
+      "tags": [
+        "rice",
+        "beef",
+        "vegetable",
+        "bibimbap",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "韩式烤肉",
+    "desc": "牛肉片腌制后炭火烤制，甜咸香嫩。",
+    "tags": [
+      "bbq",
+      "beef",
+      "bulgogi",
+      "korean"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "ingredients": [
+      "beef",
+      "soy sauce",
+      "sugar",
+      "garlic"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy"
+      ],
+      "tags": [
+        "bbq",
+        "beef",
+        "bulgogi",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "韩式炸鸡",
+    "desc": "鸡块裹粉炸后，拌辣酱或甜酱，外脆内嫩。",
+    "tags": [
+      "fried",
+      "chicken",
+      "korean"
+    ],
+    "allergens": [
+      "soy",
+      "wheat"
+    ],
+    "ingredients": [
+      "chicken",
+      "flour",
+      "gochujang",
+      "garlic"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy",
+        "wheat"
+      ],
+      "tags": [
+        "fried",
+        "chicken",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "部队锅",
+    "desc": "火腿肠、午餐肉、拉面和泡菜煮成辣汤锅。",
+    "tags": [
+      "hotpot",
+      "spicy",
+      "korean"
+    ],
+    "allergens": [
+      "soy",
+      "wheat"
+    ],
+    "ingredients": [
+      "ramen",
+      "kimchi",
+      "sausage",
+      "spam",
+      "chili"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy",
+        "wheat"
+      ],
+      "tags": [
+        "hotpot",
+        "spicy",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "冷面",
+    "desc": "荞麦面条冷汤，配牛肉片和鸡蛋，酸爽清凉。",
+    "tags": [
+      "noodle",
+      "cold",
+      "korean"
+    ],
+    "allergens": [
+      "wheat",
+      "egg"
+    ],
+    "ingredients": [
+      "buckwheat noodles",
+      "beef",
+      "egg",
+      "cucumber"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "egg"
+      ],
+      "tags": [
+        "noodle",
+        "cold",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "参鸡汤",
+    "desc": "整鸡炖人参、糯米和枣，滋补清淡。",
+    "tags": [
+      "chicken",
+      "soup",
+      "korean"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "chicken",
+      "ginseng",
+      "glutinous rice",
+      "jujube"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "chicken",
+        "soup",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "杂菜",
+    "desc": "粉丝炒牛肉与蔬菜，口味清甜。",
+    "tags": [
+      "noodle",
+      "beef",
+      "vegetable",
+      "korean"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "ingredients": [
+      "glass noodles",
+      "beef",
+      "carrot",
+      "soy sauce",
+      "spinach"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy"
+      ],
+      "tags": [
+        "noodle",
+        "beef",
+        "vegetable",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "海鲜葱饼",
+    "desc": "小麦粉糊煎制，加入葱花和海鲜，外脆里嫩。",
+    "tags": [
+      "pancake",
+      "seafood",
+      "korean"
+    ],
+    "allergens": [
+      "wheat",
+      "shrimp"
+    ],
+    "ingredients": [
+      "flour",
+      "shrimp",
+      "squid",
+      "green onion"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "shrimp"
+      ],
+      "tags": [
+        "pancake",
+        "seafood",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  },
+  {
+    "name": "辣炒年糕",
+    "desc": "年糕条炒辣酱，Q弹麻辣。",
+    "tags": [
+      "rice",
+      "spicy",
+      "korean"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "ingredients": [
+      "rice cake",
+      "gochujang",
+      "fish cake",
+      "garlic"
+    ],
+    "cuisine": "korean",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy"
+      ],
+      "tags": [
+        "rice",
+        "spicy",
+        "korean"
+      ],
+      "cuisine": "korean"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:50:00Z",
+    "updated_at": "2025-08-25T21:50:00Z"
+  }
+]

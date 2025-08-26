@@ -1,0 +1,219 @@
+[
+  {
+    "name": "汉堡",
+    "desc": "牛肉饼夹面包，加芝士、生菜和番茄，美式代表快餐。",
+    "tags": [
+      "burger",
+      "beef",
+      "american"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "beef patty",
+      "burger bun",
+      "cheese",
+      "lettuce",
+      "tomato"
+    ],
+    "cuisine": "american",
+    "lang": "en",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "burger",
+        "beef",
+        "american"
+      ],
+      "cuisine": "american"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:20:00Z",
+    "updated_at": "2025-08-26T00:20:00Z"
+  },
+  {
+    "name": "炸鸡",
+    "desc": "鸡肉裹粉油炸，外皮香脆，肉质多汁。",
+    "tags": [
+      "fried-chicken",
+      "chicken",
+      "american"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "chicken",
+      "flour",
+      "oil",
+      "spices"
+    ],
+    "cuisine": "american",
+    "lang": "en",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "fried-chicken",
+        "chicken",
+        "american"
+      ],
+      "cuisine": "american"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:20:00Z",
+    "updated_at": "2025-08-26T00:20:00Z"
+  },
+  {
+    "name": "热狗",
+    "desc": "长面包夹香肠，常加番茄酱和芥末酱。",
+    "tags": [
+      "hotdog",
+      "sausage",
+      "american"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "hotdog bun",
+      "sausage",
+      "ketchup",
+      "mustard"
+    ],
+    "cuisine": "american",
+    "lang": "en",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "hotdog",
+        "sausage",
+        "american"
+      ],
+      "cuisine": "american"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:20:00Z",
+    "updated_at": "2025-08-26T00:20:00Z"
+  },
+  {
+    "name": "美式烤排骨",
+    "desc": "猪肋排慢火烤制，刷烧烤酱，香甜浓郁。",
+    "tags": [
+      "bbq",
+      "pork",
+      "american"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "pork ribs",
+      "bbq sauce",
+      "garlic",
+      "spices"
+    ],
+    "cuisine": "american",
+    "lang": "en",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "bbq",
+        "pork",
+        "american"
+      ],
+      "cuisine": "american"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:20:00Z",
+    "updated_at": "2025-08-26T00:20:00Z"
+  },
+  {
+    "name": "凯郡什锦饭",
+    "desc": "米饭与虾、香肠和蔬菜辣味炒制，路易斯安那风味。",
+    "tags": [
+      "jambalaya",
+      "rice",
+      "cajun",
+      "american"
+    ],
+    "allergens": [
+      "shrimp"
+    ],
+    "ingredients": [
+      "rice",
+      "shrimp",
+      "sausage",
+      "bell pepper",
+      "tomato"
+    ],
+    "cuisine": "american",
+    "lang": "en",
+    "dict_codes": {
+      "allergens": [
+        "shrimp"
+      ],
+      "tags": [
+        "jambalaya",
+        "rice",
+        "cajun",
+        "american"
+      ],
+      "cuisine": "american"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:20:00Z",
+    "updated_at": "2025-08-26T00:20:00Z"
+  }
+]

@@ -1,0 +1,1176 @@
+[
+  {
+    "name": "马赛鱼汤",
+    "desc": "多种地中海鱼类与番茄、香料熬制，汤浓味鲜。",
+    "tags": [
+      "soup",
+      "seafood",
+      "provençal",
+      "french"
+    ],
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "ingredients": [
+      "fish",
+      "tomato",
+      "garlic",
+      "fennel",
+      "olive oil"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "fish",
+        "shellfish"
+      ],
+      "tags": [
+        "soup",
+        "seafood",
+        "provençal",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:00:00Z",
+    "updated_at": "2025-08-25T22:00:00Z"
+  },
+  {
+    "name": "勃艮第红酒炖牛肉",
+    "desc": "牛肉慢炖于红酒与蔬菜，肉质酥软，酒香浓郁。",
+    "tags": [
+      "beef",
+      "braised",
+      "burgundy",
+      "french"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "ingredients": [
+      "beef",
+      "red wine",
+      "carrot",
+      "onion",
+      "mushroom"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "beef",
+        "braised",
+        "burgundy",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:00:00Z",
+    "updated_at": "2025-08-25T22:00:00Z"
+  },
+  {
+    "name": "法式洋葱汤",
+    "desc": "焦糖化洋葱与牛肉汤底，铺芝士烤面包片。",
+    "tags": [
+      "soup",
+      "onion",
+      "paris",
+      "bistro",
+      "french"
+    ],
+    "allergens": [
+      "milk",
+      "wheat"
+    ],
+    "ingredients": [
+      "onion",
+      "beef broth",
+      "butter",
+      "cheese",
+      "bread"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "milk",
+        "wheat"
+      ],
+      "tags": [
+        "soup",
+        "onion",
+        "paris",
+        "bistro",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:00:00Z",
+    "updated_at": "2025-08-25T22:00:00Z"
+  },
+  {
+    "name": "里昂沙拉",
+    "desc": "生菜搭配水煮蛋、脆培根与面包丁。",
+    "tags": [
+      "salad",
+      "lyonnais",
+      "french"
+    ],
+    "allergens": [
+      "egg",
+      "wheat"
+    ],
+    "ingredients": [
+      "lettuce",
+      "egg",
+      "bacon",
+      "crouton"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "egg",
+        "wheat"
+      ],
+      "tags": [
+        "salad",
+        "lyonnais",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:00:00Z",
+    "updated_at": "2025-08-25T22:00:00Z"
+  },
+  {
+    "name": "普罗旺斯炖菜",
+    "desc": "番茄、茄子、西葫芦与甜椒慢炖，蔬菜清香。",
+    "tags": [
+      "vegetable",
+      "provençal",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "tomato",
+      "eggplant",
+      "zucchini",
+      "bell pepper",
+      "olive oil"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "vegetable",
+        "provençal",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:00:00Z",
+    "updated_at": "2025-08-25T22:00:00Z"
+  },
+  {
+    "name": "卡苏莱炖豆",
+    "desc": "白豆与香肠、鸭肉慢炖，丰盛浓厚。",
+    "tags": [
+      "beans",
+      "duck",
+      "cassoulet",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "white beans",
+      "duck confit",
+      "pork sausage",
+      "garlic"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "beans",
+        "duck",
+        "cassoulet",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:00:00Z",
+    "updated_at": "2025-08-25T22:00:00Z"
+  },
+  {
+    "name": "苹果塔",
+    "desc": "焦糖苹果倒置烘焙的经典甜点。",
+    "tags": [
+      "dessert",
+      "tarte-tatin",
+      "pâtisserie",
+      "french"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "apple",
+      "butter",
+      "sugar",
+      "flour"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "dessert",
+        "tarte-tatin",
+        "pâtisserie",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:00:00Z",
+    "updated_at": "2025-08-25T22:00:00Z"
+  },
+  {
+    "name": "可颂",
+    "desc": "黄油层层折叠烘焙，外酥内软的法式面包。",
+    "tags": [
+      "bread",
+      "pastry",
+      "pâtisserie",
+      "french"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "flour",
+      "butter",
+      "yeast",
+      "sugar"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "bread",
+        "pastry",
+        "pâtisserie",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:00:00Z",
+    "updated_at": "2025-08-25T22:00:00Z"
+  },
+  {
+    "name": "勃艮第烩鸡",
+    "desc": "整鸡切块与红酒、洋葱、蘑菇慢炖，肉质酥烂。",
+    "tags": [
+      "chicken",
+      "braised",
+      "burgundy",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "chicken",
+      "red wine",
+      "mushroom",
+      "onion",
+      "garlic"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "chicken",
+        "braised",
+        "burgundy",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "鸭腿油封",
+    "desc": "鸭腿以自身鸭油慢煮，再煎至金黄酥脆。",
+    "tags": [
+      "duck",
+      "confit",
+      "southwest",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "duck leg",
+      "duck fat",
+      "garlic",
+      "thyme"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "duck",
+        "confit",
+        "southwest",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "羊排配普罗旺斯香草",
+    "desc": "羊排煎烤后撒普罗旺斯香草，肉香草香交融。",
+    "tags": [
+      "lamb",
+      "grilled",
+      "provençal",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "lamb chop",
+      "herbes de provence",
+      "garlic",
+      "olive oil"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "lamb",
+        "grilled",
+        "provençal",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "勃艮第焗蜗牛",
+    "desc": "田螺焗烤于香草黄油，常作前菜或佐餐。",
+    "tags": [
+      "snail",
+      "appetizer",
+      "burgundy",
+      "french"
+    ],
+    "allergens": [
+      "shellfish",
+      "milk"
+    ],
+    "ingredients": [
+      "snail",
+      "butter",
+      "parsley",
+      "garlic"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "shellfish",
+        "milk"
+      ],
+      "tags": [
+        "snail",
+        "appetizer",
+        "burgundy",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "烤鸭胸配橙汁",
+    "desc": "煎烤鸭胸搭配酸甜橙汁酱，法式经典。",
+    "tags": [
+      "duck",
+      "grilled",
+      "haute-cuisine",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "duck breast",
+      "orange",
+      "butter",
+      "sugar"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "duck",
+        "grilled",
+        "haute-cuisine",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "法式龙虾浓汤",
+    "desc": "龙虾熬制成浓汤，口感醇厚。",
+    "tags": [
+      "lobster",
+      "soup",
+      "seafood",
+      "french"
+    ],
+    "allergens": [
+      "shellfish",
+      "milk"
+    ],
+    "ingredients": [
+      "lobster",
+      "cream",
+      "carrot",
+      "celery",
+      "brandy"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "shellfish",
+        "milk"
+      ],
+      "tags": [
+        "lobster",
+        "soup",
+        "seafood",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "煎鹅肝",
+    "desc": "新鲜鹅肝煎制，口感绵密，常配水果或酱汁。",
+    "tags": [
+      "foie-gras",
+      "pan-seared",
+      "haute-cuisine",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "foie gras",
+      "salt",
+      "pepper",
+      "apple"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "foie-gras",
+        "pan-seared",
+        "haute-cuisine",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "巴斯克鸡",
+    "desc": "鸡肉与番茄、青椒炖煮，色泽鲜亮。",
+    "tags": [
+      "chicken",
+      "basque-fr",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "chicken",
+      "tomato",
+      "bell pepper",
+      "garlic"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "chicken",
+        "basque-fr",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "诺曼底苹果酒猪肉",
+    "desc": "猪肉以苹果酒与奶油炖煮，甜香浓郁。",
+    "tags": [
+      "pork",
+      "cider",
+      "normandy",
+      "french"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "pork",
+      "apple cider",
+      "cream",
+      "onion"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "pork",
+        "cider",
+        "normandy",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:10:00Z",
+    "updated_at": "2025-08-25T22:10:00Z"
+  },
+  {
+    "name": "奶油焗贻贝",
+    "desc": "贻贝与奶油、白葡萄酒炖煮，鲜香浓郁。",
+    "tags": [
+      "mussel",
+      "seafood",
+      "normandy",
+      "french"
+    ],
+    "allergens": [
+      "shellfish",
+      "milk"
+    ],
+    "ingredients": [
+      "mussel",
+      "cream",
+      "white wine",
+      "garlic",
+      "butter"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "shellfish",
+        "milk"
+      ],
+      "tags": [
+        "mussel",
+        "seafood",
+        "normandy",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "马赛炖羊肉",
+    "desc": "羊肉与番茄、橄榄油、迷迭香慢炖，风味地中海。",
+    "tags": [
+      "lamb",
+      "braised",
+      "provençal",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "lamb",
+      "tomato",
+      "olive oil",
+      "rosemary",
+      "garlic"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "lamb",
+        "braised",
+        "provençal",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "鹅腿油封配白豆",
+    "desc": "油封鹅腿与炖白豆一同上桌，丰盛饱满。",
+    "tags": [
+      "goose",
+      "confit",
+      "southwest",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "goose leg",
+      "white beans",
+      "duck fat",
+      "garlic"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "goose",
+        "confit",
+        "southwest",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "香煎海鲈鱼",
+    "desc": "海鲈鱼煎至外脆内嫩，配柠檬黄油汁。",
+    "tags": [
+      "fish",
+      "grilled",
+      "haute-cuisine",
+      "french"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "ingredients": [
+      "seabass",
+      "butter",
+      "lemon",
+      "parsley"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "fish",
+        "milk"
+      ],
+      "tags": [
+        "fish",
+        "grilled",
+        "haute-cuisine",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "勃艮第火腿卷",
+    "desc": "火腿卷裹肉馅与香草，烤制香气四溢。",
+    "tags": [
+      "pork",
+      "ham",
+      "burgundy",
+      "french"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "ham",
+      "ground pork",
+      "herbs",
+      "bread crumbs"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "pork",
+        "ham",
+        "burgundy",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "里昂血肠",
+    "desc": "猪血肠配苹果泥，风味独特。",
+    "tags": [
+      "pork",
+      "offal",
+      "lyonnais",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "pork blood sausage",
+      "apple puree",
+      "onion"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "pork",
+        "offal",
+        "lyonnais",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "烤乳猪",
+    "desc": "整只乳猪慢火烤制，皮脆肉嫩。",
+    "tags": [
+      "pork",
+      "roasted",
+      "bistro",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "suckling pig",
+      "garlic",
+      "thyme",
+      "salt"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "pork",
+        "roasted",
+        "bistro",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "香煎鹅胸配樱桃酱",
+    "desc": "鹅胸肉煎制后搭配酸甜樱桃酱。",
+    "tags": [
+      "goose",
+      "pan-seared",
+      "haute-cuisine",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "goose breast",
+      "cherry",
+      "butter",
+      "red wine"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "goose",
+        "pan-seared",
+        "haute-cuisine",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "炖牛舌",
+    "desc": "牛舌红酒炖煮，肉质软烂。",
+    "tags": [
+      "beef",
+      "offal",
+      "braised",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "beef tongue",
+      "red wine",
+      "onion",
+      "carrot"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "beef",
+        "offal",
+        "braised",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  },
+  {
+    "name": "烤羊肩",
+    "desc": "整块羊肩慢烤，肉质酥香。",
+    "tags": [
+      "lamb",
+      "roasted",
+      "provençal",
+      "french"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "lamb shoulder",
+      "garlic",
+      "rosemary",
+      "olive oil"
+    ],
+    "cuisine": "french",
+    "lang": "fr",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "lamb",
+        "roasted",
+        "provençal",
+        "french"
+      ],
+      "cuisine": "french"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:20:00Z",
+    "updated_at": "2025-08-25T22:20:00Z"
+  }
+]

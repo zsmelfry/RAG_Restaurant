@@ -1,0 +1,526 @@
+[
+  {
+    "name": "红菜汤",
+    "desc": "甜菜根熬制的浓汤，酸甜开胃，常配酸奶油。",
+    "tags": [
+      "borscht",
+      "soup",
+      "russian",
+      "ukrainian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "beetroot",
+      "cabbage",
+      "potato",
+      "beef",
+      "sour cream"
+    ],
+    "cuisine": "russian",
+    "lang": "ru",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "borscht",
+        "soup",
+        "russian",
+        "ukrainian"
+      ],
+      "cuisine": "russian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "斯特罗加诺夫牛肉",
+    "desc": "牛肉片炖奶油洋葱蘑菇酱，搭配米饭或土豆泥。",
+    "tags": [
+      "beef",
+      "stroganoff",
+      "russian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "beef",
+      "mushroom",
+      "onion",
+      "sour cream"
+    ],
+    "cuisine": "russian",
+    "lang": "ru",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "beef",
+        "stroganoff",
+        "russian"
+      ],
+      "cuisine": "russian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "俄式饺子",
+    "desc": "小麦面皮包牛羊肉馅，煮熟后常配酸奶油。",
+    "tags": [
+      "pelmeni",
+      "dumpling",
+      "russian"
+    ],
+    "allergens": [
+      "wheat",
+      "egg"
+    ],
+    "ingredients": [
+      "flour",
+      "egg",
+      "beef",
+      "lamb",
+      "onion"
+    ],
+    "cuisine": "russian",
+    "lang": "ru",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "egg"
+      ],
+      "tags": [
+        "pelmeni",
+        "dumpling",
+        "russian"
+      ],
+      "cuisine": "russian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "皮罗什基",
+    "desc": "小麦面团包肉馅或蔬菜馅，烤制或油炸。",
+    "tags": [
+      "pirozhki",
+      "pastry",
+      "russian"
+    ],
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "ingredients": [
+      "flour",
+      "egg",
+      "beef",
+      "cabbage",
+      "potato"
+    ],
+    "cuisine": "russian",
+    "lang": "ru",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "egg",
+        "milk"
+      ],
+      "tags": [
+        "pirozhki",
+        "pastry",
+        "russian"
+      ],
+      "cuisine": "russian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "格鲁吉亚芝士面包",
+    "desc": "面饼中间放芝士和鸡蛋，香浓拉丝。",
+    "tags": [
+      "khachapuri",
+      "bread",
+      "georgian",
+      "caucasian"
+    ],
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "ingredients": [
+      "flour",
+      "cheese",
+      "egg",
+      "butter"
+    ],
+    "cuisine": "georgian",
+    "lang": "ka",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "egg",
+        "milk"
+      ],
+      "tags": [
+        "khachapuri",
+        "bread",
+        "georgian",
+        "caucasian"
+      ],
+      "cuisine": "georgian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "乌克兰猪油",
+    "desc": "腌制猪肥肉片，常作下酒小菜。",
+    "tags": [
+      "salo",
+      "pork",
+      "ukrainian"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "pork fat",
+      "garlic",
+      "salt"
+    ],
+    "cuisine": "ukrainian",
+    "lang": "uk",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "salo",
+        "pork",
+        "ukrainian"
+      ],
+      "cuisine": "ukrainian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "俄式沙拉",
+    "desc": "土豆、胡萝卜、豌豆和蛋黄酱拌制，常见节日凉菜。",
+    "tags": [
+      "olivier-salad",
+      "potato",
+      "russian"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "ingredients": [
+      "potato",
+      "carrot",
+      "pea",
+      "egg",
+      "mayonnaise"
+    ],
+    "cuisine": "russian",
+    "lang": "ru",
+    "dict_codes": {
+      "allergens": [
+        "egg"
+      ],
+      "tags": [
+        "olivier-salad",
+        "potato",
+        "russian"
+      ],
+      "cuisine": "russian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "波兰饺子",
+    "desc": "半月形面皮包土豆泥、奶酪或肉馅，煮熟后食用。",
+    "tags": [
+      "pierogi",
+      "dumpling",
+      "polish"
+    ],
+    "allergens": [
+      "wheat",
+      "milk",
+      "egg"
+    ],
+    "ingredients": [
+      "flour",
+      "egg",
+      "potato",
+      "cheese"
+    ],
+    "cuisine": "polish",
+    "lang": "pl",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk",
+        "egg"
+      ],
+      "tags": [
+        "pierogi",
+        "dumpling",
+        "polish"
+      ],
+      "cuisine": "polish"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "捷克牛肉炖汤",
+    "desc": "牛肉块与啤酒和香料炖煮，浓厚暖胃。",
+    "tags": [
+      "beef",
+      "stew",
+      "czech"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "beef",
+      "beer",
+      "onion",
+      "caraway"
+    ],
+    "cuisine": "czech",
+    "lang": "cs",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "beef",
+        "stew",
+        "czech"
+      ],
+      "cuisine": "czech"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "匈牙利炖牛肉",
+    "desc": "牛肉配红椒粉炖煮，浓郁辛香。",
+    "tags": [
+      "goulash",
+      "beef",
+      "hungarian"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "beef",
+      "onion",
+      "paprika",
+      "potato"
+    ],
+    "cuisine": "hungarian",
+    "lang": "hu",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "goulash",
+        "beef",
+        "hungarian"
+      ],
+      "cuisine": "hungarian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "酸黄瓜汤",
+    "desc": "黄瓜腌渍水做成酸汤，配土豆与胡萝卜。",
+    "tags": [
+      "soup",
+      "pickle",
+      "polish"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "pickle",
+      "potato",
+      "carrot",
+      "dill"
+    ],
+    "cuisine": "polish",
+    "lang": "pl",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "soup",
+        "pickle",
+        "polish"
+      ],
+      "cuisine": "polish"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  },
+  {
+    "name": "俄式酸奶冷汤",
+    "desc": "发酵饮料克瓦斯为汤底，配黄瓜、香草和蛋。",
+    "tags": [
+      "okroshka",
+      "cold-soup",
+      "russian"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "ingredients": [
+      "kvass",
+      "cucumber",
+      "egg",
+      "dill",
+      "sour cream"
+    ],
+    "cuisine": "russian",
+    "lang": "ru",
+    "dict_codes": {
+      "allergens": [
+        "egg",
+        "milk"
+      ],
+      "tags": [
+        "okroshka",
+        "cold-soup",
+        "russian"
+      ],
+      "cuisine": "russian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-26T00:10:00Z",
+    "updated_at": "2025-08-26T00:10:00Z"
+  }
+]

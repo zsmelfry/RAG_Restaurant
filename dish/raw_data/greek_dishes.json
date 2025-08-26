@@ -1,0 +1,528 @@
+[
+  {
+    "name": "希腊沙拉",
+    "desc": "番茄、黄瓜、洋葱、橄榄和菲达芝士拌制，清爽健康。",
+    "tags": [
+      "salad",
+      "vegetarian",
+      "greek"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "onion",
+      "olive",
+      "feta cheese"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "salad",
+        "vegetarian",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "慕萨卡",
+    "desc": "茄子、土豆与肉末分层，浇白酱烤制，口感丰富。",
+    "tags": [
+      "eggplant",
+      "meat",
+      "casserole",
+      "greek"
+    ],
+    "allergens": [
+      "milk",
+      "wheat"
+    ],
+    "ingredients": [
+      "eggplant",
+      "potato",
+      "minced lamb",
+      "béchamel sauce"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "milk",
+        "wheat"
+      ],
+      "tags": [
+        "eggplant",
+        "meat",
+        "casserole",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "烤肉串",
+    "desc": "羊肉或猪肉切块串烤，佐以皮塔饼与酱料。",
+    "tags": [
+      "kebab",
+      "meat",
+      "greek"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "pork",
+      "lamb",
+      "pita bread",
+      "olive oil"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "kebab",
+        "meat",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "吉罗斯",
+    "desc": "垂直旋转烤肉，夹在皮塔饼中配蔬菜与酱汁。",
+    "tags": [
+      "gyro",
+      "street-food",
+      "greek"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "pork",
+      "pita bread",
+      "tzatziki",
+      "tomato",
+      "onion"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "gyro",
+        "street-food",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "酸奶黄瓜酱",
+    "desc": "希腊酸奶拌黄瓜与大蒜，常作烤肉蘸酱。",
+    "tags": [
+      "dip",
+      "vegetarian",
+      "greek"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "greek yogurt",
+      "cucumber",
+      "garlic",
+      "dill"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "dip",
+        "vegetarian",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "葡萄叶包饭",
+    "desc": "葡萄叶包裹米饭与香料馅料，酸香可口。",
+    "tags": [
+      "dolma",
+      "rice",
+      "vegetarian",
+      "greek"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "grape leaves",
+      "rice",
+      "onion",
+      "dill",
+      "lemon"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "dolma",
+        "rice",
+        "vegetarian",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "烤章鱼",
+    "desc": "章鱼炭火烤制，淋橄榄油和柠檬汁。",
+    "tags": [
+      "seafood",
+      "octopus",
+      "grilled",
+      "greek"
+    ],
+    "allergens": [
+      "octopus"
+    ],
+    "ingredients": [
+      "octopus",
+      "olive oil",
+      "lemon"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "octopus"
+      ],
+      "tags": [
+        "seafood",
+        "octopus",
+        "grilled",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "希腊烤羊排",
+    "desc": "羊排炭烤后撒牛至与柠檬汁，肉质鲜香。",
+    "tags": [
+      "lamb",
+      "grilled",
+      "greek"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "lamb chop",
+      "oregano",
+      "lemon",
+      "olive oil"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "lamb",
+        "grilled",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "烤乳酪萨加纳基",
+    "desc": "奶酪煎至金黄，常配柠檬汁。",
+    "tags": [
+      "cheese",
+      "appetizer",
+      "greek"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "kefalotyri cheese",
+      "olive oil",
+      "lemon"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "cheese",
+        "appetizer",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "希腊菠菜派",
+    "desc": "酥皮包裹菠菜和菲达芝士馅，口感酥脆。",
+    "tags": [
+      "pastry",
+      "spinach",
+      "vegetarian",
+      "greek"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "phyllo dough",
+      "spinach",
+      "feta cheese",
+      "olive oil"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pastry",
+        "spinach",
+        "vegetarian",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "蜂蜜坚果酥",
+    "desc": "多层酥皮夹核桃与蜂蜜，甜美酥脆。",
+    "tags": [
+      "dessert",
+      "baklava",
+      "greek"
+    ],
+    "allergens": [
+      "wheat",
+      "nuts"
+    ],
+    "ingredients": [
+      "phyllo dough",
+      "walnut",
+      "honey",
+      "sugar"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "nuts"
+      ],
+      "tags": [
+        "dessert",
+        "baklava",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  },
+  {
+    "name": "希腊酸奶配蜂蜜",
+    "desc": "浓稠希腊酸奶淋蜂蜜，常加坚果作早餐或甜点。",
+    "tags": [
+      "yogurt",
+      "dessert",
+      "greek"
+    ],
+    "allergens": [
+      "milk",
+      "nuts"
+    ],
+    "ingredients": [
+      "greek yogurt",
+      "honey",
+      "walnut"
+    ],
+    "cuisine": "greek",
+    "lang": "el",
+    "dict_codes": {
+      "allergens": [
+        "milk",
+        "nuts"
+      ],
+      "tags": [
+        "yogurt",
+        "dessert",
+        "greek"
+      ],
+      "cuisine": "greek"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:00:00Z",
+    "updated_at": "2025-08-25T23:00:00Z"
+  }
+]

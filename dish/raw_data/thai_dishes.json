@@ -1,0 +1,361 @@
+[
+  {
+    "name": "冬阴功汤",
+    "desc": "泰式酸辣汤，配虾、柠檬草和南姜，鲜辣酸爽。",
+    "tags": [
+      "soup",
+      "spicy",
+      "sour",
+      "shrimp",
+      "thai"
+    ],
+    "allergens": [
+      "shrimp"
+    ],
+    "ingredients": [
+      "shrimp",
+      "lemongrass",
+      "galangal",
+      "lime",
+      "chili"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "shrimp"
+      ],
+      "tags": [
+        "soup",
+        "spicy",
+        "sour",
+        "shrimp",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "绿咖喱鸡",
+    "desc": "青咖喱酱配鸡肉和椰奶，辛香浓郁。",
+    "tags": [
+      "chicken",
+      "curry",
+      "thai"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "chicken",
+      "green curry paste",
+      "coconut milk",
+      "basil"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "chicken",
+        "curry",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "泰式炒河粉",
+    "desc": "米粉炒虾仁、花生和豆芽，酸甜微辣。",
+    "tags": [
+      "noodle",
+      "shrimp",
+      "thai"
+    ],
+    "allergens": [
+      "shrimp",
+      "peanut"
+    ],
+    "ingredients": [
+      "rice noodles",
+      "shrimp",
+      "peanut",
+      "bean sprouts",
+      "lime"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "shrimp",
+        "peanut"
+      ],
+      "tags": [
+        "noodle",
+        "shrimp",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "红咖喱牛肉",
+    "desc": "红咖喱酱配牛肉与椰奶，辛辣醇厚。",
+    "tags": [
+      "beef",
+      "curry",
+      "thai"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "beef",
+      "red curry paste",
+      "coconut milk",
+      "chili"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "beef",
+        "curry",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "青木瓜沙拉",
+    "desc": "青木瓜丝配辣椒、鱼露、花生，酸辣爽口。",
+    "tags": [
+      "salad",
+      "vegetable",
+      "spicy",
+      "thai"
+    ],
+    "allergens": [
+      "peanut",
+      "fish"
+    ],
+    "ingredients": [
+      "green papaya",
+      "fish sauce",
+      "chili",
+      "peanut",
+      "lime"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "peanut",
+        "fish"
+      ],
+      "tags": [
+        "salad",
+        "vegetable",
+        "spicy",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "椰汁鸡汤",
+    "desc": "椰奶汤底，加入鸡肉与香料，微酸清香。",
+    "tags": [
+      "soup",
+      "chicken",
+      "thai"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "galangal",
+      "lime"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "soup",
+        "chicken",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "泰式打抛猪",
+    "desc": "碎猪肉炒辣椒与罗勒，香辣开胃。",
+    "tags": [
+      "pork",
+      "stir-fry",
+      "spicy",
+      "thai"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "ingredients": [
+      "pork mince",
+      "basil",
+      "chili",
+      "soy sauce"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "soy"
+      ],
+      "tags": [
+        "pork",
+        "stir-fry",
+        "spicy",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "菠萝炒饭",
+    "desc": "米饭与虾仁、菠萝快炒，酸甜清香。",
+    "tags": [
+      "rice",
+      "shrimp",
+      "thai"
+    ],
+    "allergens": [
+      "shrimp"
+    ],
+    "ingredients": [
+      "rice",
+      "shrimp",
+      "pineapple",
+      "egg"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "shrimp"
+      ],
+      "tags": [
+        "rice",
+        "shrimp",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "炸虾饼",
+    "desc": "虾泥裹粉油炸，外酥里嫩。",
+    "tags": [
+      "shrimp",
+      "fried",
+      "thai"
+    ],
+    "allergens": [
+      "shrimp",
+      "wheat"
+    ],
+    "ingredients": [
+      "shrimp",
+      "flour",
+      "egg",
+      "oil"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "shrimp",
+        "wheat"
+      ],
+      "tags": [
+        "shrimp",
+        "fried",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  },
+  {
+    "name": "椰汁芒果糯米饭",
+    "desc": "糯米配椰汁与芒果，香甜软糯。",
+    "tags": [
+      "dessert",
+      "rice",
+      "sweet",
+      "thai"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "sticky rice",
+      "coconut milk",
+      "mango",
+      "sugar"
+    ],
+    "cuisine": "thai",
+    "lang": "zh",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "dessert",
+        "rice",
+        "sweet",
+        "thai"
+      ],
+      "cuisine": "thai"
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T21:40:00Z",
+    "updated_at": "2025-08-25T21:40:00Z"
+  }
+]

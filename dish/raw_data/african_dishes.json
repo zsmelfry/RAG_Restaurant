@@ -1,0 +1,498 @@
+[
+  {
+    "name": "库斯库斯",
+    "desc": "小麦粗粒蒸制，配羊肉、鸡肉和蔬菜，北非国民美食。",
+    "tags": [
+      "couscous",
+      "grain",
+      "moroccan",
+      "north-african"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "semolina",
+      "lamb",
+      "chicken",
+      "carrot",
+      "chickpea"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "couscous",
+        "grain",
+        "moroccan",
+        "north-african"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "塔吉锅羊肉",
+    "desc": "羊肉与干果、蔬菜在陶锅慢炖，香料味浓。",
+    "tags": [
+      "tajine",
+      "lamb",
+      "moroccan"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "lamb",
+      "prune",
+      "almond",
+      "onion",
+      "cinnamon"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "tajine",
+        "lamb",
+        "moroccan"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "摩洛哥鸡肉柠檬橄榄塔吉锅",
+    "desc": "鸡肉与腌柠檬、绿橄榄同炖，咸鲜开胃。",
+    "tags": [
+      "tajine",
+      "chicken",
+      "moroccan"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "chicken",
+      "preserved lemon",
+      "olive",
+      "garlic",
+      "ginger"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "tajine",
+        "chicken",
+        "moroccan"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "哈里拉汤",
+    "desc": "扁豆、鹰嘴豆和番茄炖汤，斋月常饮。",
+    "tags": [
+      "soup",
+      "lentil",
+      "moroccan"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "lentil",
+      "chickpea",
+      "tomato",
+      "celery",
+      "spices"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "soup",
+        "lentil",
+        "moroccan"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "烤全羊",
+    "desc": "整只羊炭火烤制，大型节庆必备。",
+    "tags": [
+      "lamb",
+      "bbq",
+      "north-african"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "whole lamb",
+      "salt",
+      "cumin"
+    ],
+    "cuisine": "north-african",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "lamb",
+        "bbq",
+        "north-african"
+      ],
+      "cuisine": "north-african"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "摩洛哥肉丸",
+    "desc": "牛肉或羊肉丸子炖番茄酱，常配面包。",
+    "tags": [
+      "meatball",
+      "kefta",
+      "moroccan"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "beef",
+      "lamb",
+      "tomato",
+      "onion",
+      "cumin"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "meatball",
+        "kefta",
+        "moroccan"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "摩洛哥薄荷茶",
+    "desc": "绿茶加大量新鲜薄荷和糖，摩洛哥待客必备。",
+    "tags": [
+      "tea",
+      "mint",
+      "drink",
+      "moroccan"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "green tea",
+      "mint",
+      "sugar"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "tea",
+        "mint",
+        "drink",
+        "moroccan"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "摩洛哥面包",
+    "desc": "圆形扁平面包，常搭配汤或炖菜。",
+    "tags": [
+      "bread",
+      "khobz",
+      "moroccan"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "flour",
+      "yeast",
+      "olive oil",
+      "salt"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "bread",
+        "khobz",
+        "moroccan"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "摩洛哥千层饼",
+    "desc": "薄饼层层叠加夹肉馅和杏仁糖粉，甜咸结合。",
+    "tags": [
+      "pastry",
+      "bastilla",
+      "moroccan"
+    ],
+    "allergens": [
+      "wheat",
+      "nuts",
+      "egg"
+    ],
+    "ingredients": [
+      "phyllo dough",
+      "chicken",
+      "almond",
+      "egg",
+      "sugar"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "nuts",
+        "egg"
+      ],
+      "tags": [
+        "pastry",
+        "bastilla",
+        "moroccan"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "库夫塔串",
+    "desc": "羊肉碎做成肉串，炭烤后香气四溢。",
+    "tags": [
+      "lamb",
+      "kebab",
+      "north-african"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "ground lamb",
+      "cumin",
+      "garlic",
+      "parsley"
+    ],
+    "cuisine": "north-african",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "lamb",
+        "kebab",
+        "north-african"
+      ],
+      "cuisine": "north-african"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "摩洛哥炖鹰嘴豆",
+    "desc": "鹰嘴豆与番茄、香料慢炖，常见街头食品。",
+    "tags": [
+      "chickpea",
+      "stew",
+      "moroccan"
+    ],
+    "allergens": [],
+    "ingredients": [
+      "chickpea",
+      "tomato",
+      "onion",
+      "cumin"
+    ],
+    "cuisine": "moroccan",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [],
+      "tags": [
+        "chickpea",
+        "stew",
+        "moroccan"
+      ],
+      "cuisine": "moroccan"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  },
+  {
+    "name": "椰枣甜点",
+    "desc": "椰枣夹坚果，撒椰丝，甜美营养。",
+    "tags": [
+      "dessert",
+      "date",
+      "north-african"
+    ],
+    "allergens": [
+      "nuts"
+    ],
+    "ingredients": [
+      "date",
+      "almond",
+      "walnut",
+      "coconut"
+    ],
+    "cuisine": "north-african",
+    "lang": "ar",
+    "dict_codes": {
+      "allergens": [
+        "nuts"
+      ],
+      "tags": [
+        "dessert",
+        "date",
+        "north-african"
+      ],
+      "cuisine": "north-african"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T23:40:00Z",
+    "updated_at": "2025-08-25T23:40:00Z"
+  }
+]

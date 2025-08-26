@@ -1,0 +1,918 @@
+[
+  {
+    "name": "意大利肉酱面",
+    "desc": "意大利宽面条拌牛肉番茄肉酱，经典博洛尼亚风味。",
+    "tags": [
+      "pasta",
+      "beef",
+      "bolognese",
+      "italian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "tagliatelle",
+      "beef",
+      "tomato",
+      "onion",
+      "garlic"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "pasta",
+        "beef",
+        "bolognese",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "培根奶油意面",
+    "desc": "鸡蛋、奶酪和意大利培根拌制的奶油风味意面。",
+    "tags": [
+      "pasta",
+      "carbonara",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "ingredients": [
+      "spaghetti",
+      "egg",
+      "pecorino romano",
+      "guanciale",
+      "black pepper"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "egg",
+        "milk"
+      ],
+      "tags": [
+        "pasta",
+        "carbonara",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "热那亚青酱意面",
+    "desc": "罗勒叶、松子与橄榄油制成的青酱拌面。",
+    "tags": [
+      "pasta",
+      "pesto",
+      "vegetarian",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "nuts",
+      "milk"
+    ],
+    "ingredients": [
+      "trofie pasta",
+      "basil",
+      "pine nuts",
+      "parmesan",
+      "olive oil"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "nuts",
+        "milk"
+      ],
+      "tags": [
+        "pasta",
+        "pesto",
+        "vegetarian",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "蘑菇烩饭",
+    "desc": "意大利米慢炖蘑菇和高汤，奶油质地浓郁。",
+    "tags": [
+      "risotto",
+      "mushroom",
+      "italian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "arborio rice",
+      "mushroom",
+      "parmesan",
+      "butter",
+      "white wine"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "risotto",
+        "mushroom",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "米兰烩饭",
+    "desc": "藏红花调味的米兰传统烩饭，色泽金黄。",
+    "tags": [
+      "risotto",
+      "milanese",
+      "italian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "ingredients": [
+      "arborio rice",
+      "saffron",
+      "parmesan",
+      "butter"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "milk"
+      ],
+      "tags": [
+        "risotto",
+        "milanese",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "玛格丽特披萨",
+    "desc": "番茄、马苏里拉奶酪和罗勒叶的经典披萨。",
+    "tags": [
+      "pizza",
+      "vegetarian",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "pizza dough",
+      "tomato",
+      "mozzarella",
+      "basil"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pizza",
+        "vegetarian",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "四季披萨",
+    "desc": "分四区的披萨，代表四季食材，如蘑菇、火腿、洋蓟和橄榄。",
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "pizza dough",
+      "tomato",
+      "mozzarella",
+      "mushroom",
+      "ham",
+      "artichoke",
+      "olive"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "热那亚佛卡夏",
+    "desc": "橄榄油调味的烤面包，松软香气扑鼻。",
+    "tags": [
+      "bread",
+      "focaccia",
+      "italian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "flour",
+      "olive oil",
+      "yeast",
+      "rosemary",
+      "salt"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "bread",
+        "focaccia",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "土豆团子配番茄酱",
+    "desc": "土豆制成的团子，拌番茄罗勒酱。",
+    "tags": [
+      "gnocchi",
+      "pasta",
+      "vegetarian",
+      "italian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "potato",
+      "flour",
+      "tomato",
+      "basil"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "gnocchi",
+        "pasta",
+        "vegetarian",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "千层面",
+    "desc": "多层面片夹肉酱、白酱和芝士烤制。",
+    "tags": [
+      "lasagna",
+      "pasta",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "lasagna sheets",
+      "beef",
+      "béchamel",
+      "parmesan",
+      "tomato"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "lasagna",
+        "pasta",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:30:00Z",
+    "updated_at": "2025-08-25T22:30:00Z"
+  },
+  {
+    "name": "阿马特里奇纳意面",
+    "desc": "番茄、猪脸颊肉和佩科里诺芝士拌制的罗马特色意面。",
+    "tags": [
+      "pasta",
+      "amatriciana",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "spaghetti",
+      "guanciale",
+      "tomato",
+      "pecorino romano"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pasta",
+        "amatriciana",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "辣味番茄意面",
+    "desc": "番茄和辣椒酱调制的意大利面，口感辛辣爽口。",
+    "tags": [
+      "pasta",
+      "arrabbiata",
+      "spicy",
+      "italian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "ingredients": [
+      "penne pasta",
+      "tomato",
+      "chili",
+      "garlic"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat"
+      ],
+      "tags": [
+        "pasta",
+        "arrabbiata",
+        "spicy",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "宽面蘑菇松露酱",
+    "desc": "手工宽面拌蘑菇与松露奶油酱，香气浓郁。",
+    "tags": [
+      "pasta",
+      "truffle",
+      "mushroom",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "tagliatelle",
+      "mushroom",
+      "truffle",
+      "cream",
+      "parmesan"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pasta",
+        "truffle",
+        "mushroom",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "卡普雷塞意大利团子",
+    "desc": "土豆团子配番茄酱和马苏里拉芝士。",
+    "tags": [
+      "gnocchi",
+      "pasta",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "potato",
+      "flour",
+      "tomato",
+      "mozzarella"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "gnocchi",
+        "pasta",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "那不勒斯披萨",
+    "desc": "薄饼底配番茄酱、马苏里拉和新鲜罗勒，传统那不勒斯做法。",
+    "tags": [
+      "pizza",
+      "napoli",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "pizza dough",
+      "tomato",
+      "mozzarella",
+      "basil"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pizza",
+        "napoli",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "四种芝士披萨",
+    "desc": "结合马苏里拉、戈贡佐拉、帕玛森和普罗沃洛内芝士的披萨。",
+    "tags": [
+      "pizza",
+      "cheese",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "pizza dough",
+      "mozzarella",
+      "gorgonzola",
+      "parmesan",
+      "provolone"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pizza",
+        "cheese",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "卡尔佐内披萨",
+    "desc": "折叠半月形的披萨，内馅含芝士与火腿。",
+    "tags": [
+      "pizza",
+      "stuffed",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "pizza dough",
+      "mozzarella",
+      "ricotta",
+      "ham",
+      "tomato"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pizza",
+        "stuffed",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "西西里披萨",
+    "desc": "厚底方形披萨，常配凤尾鱼和番茄。",
+    "tags": [
+      "pizza",
+      "sicilian",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "fish",
+      "milk"
+    ],
+    "ingredients": [
+      "pizza dough",
+      "anchovy",
+      "tomato",
+      "mozzarella",
+      "oregano"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "fish",
+        "milk"
+      ],
+      "tags": [
+        "pizza",
+        "sicilian",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "佛卡夏三明治",
+    "desc": "佛卡夏面包夹火腿和芝士，口感松软咸香。",
+    "tags": [
+      "bread",
+      "sandwich",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "focaccia",
+      "ham",
+      "mozzarella",
+      "tomato"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "bread",
+        "sandwich",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  },
+  {
+    "name": "蘑菇意大利饺子",
+    "desc": "意大利饺子内馅包蘑菇和芝士，配黄油酱。",
+    "tags": [
+      "pasta",
+      "ravioli",
+      "italian"
+    ],
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "ingredients": [
+      "ravioli pasta",
+      "mushroom",
+      "ricotta",
+      "parmesan",
+      "butter"
+    ],
+    "cuisine": "italian",
+    "lang": "it",
+    "dict_codes": {
+      "allergens": [
+        "wheat",
+        "milk"
+      ],
+      "tags": [
+        "pasta",
+        "ravioli",
+        "italian"
+      ],
+      "cuisine": "italian"
+    },
+    "extras": {
+      "fp_v1": null
+    },
+    "source": {
+      "site": null,
+      "url": null,
+      "external_id": null,
+      "ingest_batch": null
+    },
+    "schema_version": "1.0.0",
+    "created_at": "2025-08-25T22:40:00Z",
+    "updated_at": "2025-08-25T22:40:00Z"
+  }
+]
