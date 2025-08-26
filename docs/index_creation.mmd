@@ -1,0 +1,55 @@
+flowchart LR
+  %% 主流程
+  L[加载 JSON] --> N[清洗/规范化 + 字典映射 + fp_v1 + emb_input] --> E[批量嵌入] --> U[写入 Qdrant] --> M[更新 Mongo index_status]
+
+  %% services/vector
+  E -->|调用 /embed| EMB[/POST /embed/]
+  U -->|调用 /index/upsert| UPS[/POST /index/upsert/]
+
+  %% libs/embeddings
+  EMB --> Mdl[bge-m3 / multilingual-e5-large]
+
+  %% libs/io
+  UPS --> Q[QdrantClient]
+  Q --> QD[(Qdrant 集合)]
+  M --> DAO[MongoDAO]
+  DAO --> MG[(MongoDB)]
+
+  %% libs/contracts
+  N -->|校验| C1[DishClean Schema]
+  EMB -.使用.-> C2[EmbedRequest/Response]
+  UPS -.使用.-> C3[UpsertRequest/Result]
+
+  %% 分组说明
+  subgraph P["pipelines/ingest"]
+    L
+    N
+    E
+    U
+    M
+  end
+
+  subgraph S["services/vector (FastAPI)"]
+    EMB
+    UPS
+  end
+
+  subgraph LE["libs/embeddings"]
+    Mdl
+  end
+
+  subgraph LIO["libs/io"]
+    Q
+    DAO
+  end
+
+  subgraph LC["libs/contracts (Pydantic)"]
+    C1
+    C2
+    C3
+  end
+
+  subgraph ST["存储"]
+    QD
+    MG
+  end
