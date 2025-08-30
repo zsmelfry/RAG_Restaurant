@@ -1,0 +1,34 @@
+flowchart LR
+    subgraph CI[CircleCI]
+      Build[Build Nx frontend & Python indexer]
+      Docker[Build Docker images]
+      Push[Push images to registry]
+      HelmDeploy[helm upgrade --install]
+    end
+
+    subgraph AKS[Azure AKS Cluster]
+      Ingress[NGINX Ingress + TLS]
+      Backend["Backend API (Express + TS)"]
+      Frontend["Frontend (Vue3 + Vite)"]
+      Indexer["Indexer (Python FastAPI)"]
+      Mongo["MongoDB 1GB PVC"]
+      Qdrant["Qdrant 1GB PVC"]
+      Mon[Prometheus + Grafana]
+    end
+
+    subgraph Ext[External Resources]
+      CF[Cloudflare DNS/WAF/CDN]
+      R2[(Cloudflare R2 Image Storage)]
+    end
+
+    Build --> Docker --> Push --> HelmDeploy --> Ingress
+    Ingress --> Backend
+    Ingress --> Frontend
+    Backend --> Mongo
+    Backend --> Qdrant
+    Indexer --> Qdrant
+    CF --> Ingress
+    CF --> R2
+    Mon -.-> Ingress
+    Mon -.-> Backend
+    Mon -.-> Qdrant
